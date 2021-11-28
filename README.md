@@ -1,6 +1,6 @@
 <div>
-    <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-guilherme-151096211/"><i>Matheus Guilherme Araujo</i></a> 😃️</h1>
-    <p align="center">Atualmente buscando oportunidades de desenvolvimento, sempre aprimorando meus conhecimentos.</p>
+    <h2 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-guilherme-151096211/"><i>Matheus Guilherme Araujo</i></a></h2>
+    
   </div>
   
   
@@ -13,7 +13,7 @@
     </a>
   </div>
  
- <h2 align="center">Conhecimentos atuais</h2>
+ <h2 align="center">Conhecimentos:</h2>
 
   <div align="center" valign="top"><br>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
