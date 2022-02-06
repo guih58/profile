@@ -1,6 +1,6 @@
 <div>
     <h2 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/matheus-guilherme-151096211/" target="_blank"><i>Matheus Guilherme Araujo</i></a> <br/> Desenvolver front-end
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></h2>
+    </h2>
     
   </div>
   
